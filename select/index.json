@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ヒバリ(Laugh-In)",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2025-12-05T04:29:25.037597Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒバリ(Laugh-In)",
+      "artist": "HIMEHINA",
+      "has_synced": true,
+      "path": "select/01_ヒバリ(Laugh-In)_HIMEHINA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒバリ (Laugh-In)",
+      "artist": "ヒメヒナ",
+      "has_synced": true,
+      "path": "select/02_ヒバリ_(Laugh-In)_ヒメヒナ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒバリ",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/pl_01_ヒバリ_HIMEHINA.txt"
+    }
+  ]
+}
